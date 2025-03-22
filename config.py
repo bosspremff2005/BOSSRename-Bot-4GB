@@ -3,10 +3,10 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN = int(os.environ.get("ADMIN", ""))
+API_ID = int(os.environ.get("API_ID", "28144571"))
+API_HASH = os.environ.get("API_HASH", "829d51afdd48a3c537917f65bf4f0ada")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7699842368:AAE3R5iovQR8VsOUzdkdtq76YB43VQu3UIQ")
+ADMIN = int(os.environ.get("ADMIN", "5573764259"))
 
 
 # Premium 4GB Renaming Client Config
@@ -14,17 +14,17 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "DramaAddaBackup")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002573244505")
 
 
 # Mongo DB Database Config
 DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "bosspremff")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/bb5fpq.jpg")
 
 
 
@@ -32,9 +32,9 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 # If You Need To Add Verify System Then Message Me On Telegram
 # Check Demo Bots
-# https://t.me/FileRenameXBot
-# https://t.me/PremiumRenamerRobot
-# https://t.me/FileRenamerXRobot
+# https://t.me/DramaAddaBackup
+# https://t.me/DramaAddaBackup
+# https://t.me/DramaAddaBackup
 # Token Verification Adding Features Is Paid So If You Want Then Dm Me
 
 
@@ -45,8 +45,8 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 
 
-# Jishu Developer 
+# Boss Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel https://t.me/+ze-EtrWbdbljZTY1
+# Backup Channel @DramaAddaBackup
+# Developer @bosspremff
