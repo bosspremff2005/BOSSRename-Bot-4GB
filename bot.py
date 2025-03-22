@@ -28,8 +28,8 @@ else:
 
 
 
-# Jishu Developer 
+# boss Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @DramaAddaBackup
+# Back-Up Channel @DramaAddaBackup
+# Developer @bosspremff
